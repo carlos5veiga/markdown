@@ -4,5 +4,5 @@
 
 Para executar o sistema na sua máquina, execute o comando:
 ```
-sudo apt update
+node app.js
 ```
